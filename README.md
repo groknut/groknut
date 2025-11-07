@@ -1,9 +1,7 @@
 
-## Yo
+## Groknut
 
-**How to reach me**
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yokendo)
+[Github Stats](https://github-readme-stats.vercel.app/api?username=groknut&show_icons=true&theme=radical)
 
 **I'm studying it now**
 
