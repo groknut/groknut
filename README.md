@@ -1,7 +1,7 @@
 
 ## Groknut
 
-[Github Stats](https://github-readme-stats.vercel.app/api?username=groknut&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=groknut&show_icons=true&theme=radical)
 
 **I'm studying it now**
 
